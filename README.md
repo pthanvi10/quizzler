@@ -40,7 +40,7 @@ assets/
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/pthanvi10/quizzler.git
 cd quizzler
 ```
 
